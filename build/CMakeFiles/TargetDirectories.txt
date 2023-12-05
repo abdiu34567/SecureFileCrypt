@@ -1,0 +1,7 @@
+C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/CMakeFiles/edit_cache.dir
+C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/src/CMakeFiles/SecureFileCrypt.dir
+C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/src/CMakeFiles/edit_cache.dir
+C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/include/CMakeFiles/edit_cache.dir
+C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/include/CMakeFiles/rebuild_cache.dir

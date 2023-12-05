@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SecureFileCrypt.dir/includes_CXX.rsp -g -o CMakeFiles\\SecureFileCrypt.dir\\main.cpp.obj -c \"C:\\Users\\Abdi Urgessa\\OneDrive\\Documents\\Projects\\SecureFileCrypt\\src\\main.cpp\"",
+  "file": "C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/src/main.cpp",
+  "output": "src/CMakeFiles/SecureFileCrypt.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SecureFileCrypt.dir/includes_CXX.rsp -g -o CMakeFiles\\SecureFileCrypt.dir\\encrypt.cpp.obj -c \"C:\\Users\\Abdi Urgessa\\OneDrive\\Documents\\Projects\\SecureFileCrypt\\src\\encrypt.cpp\"",
+  "file": "C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/src/encrypt.cpp",
+  "output": "src/CMakeFiles/SecureFileCrypt.dir/encrypt.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SecureFileCrypt.dir/includes_CXX.rsp -g -o CMakeFiles\\SecureFileCrypt.dir\\decrypt.cpp.obj -c \"C:\\Users\\Abdi Urgessa\\OneDrive\\Documents\\Projects\\SecureFileCrypt\\src\\decrypt.cpp\"",
+  "file": "C:/Users/Abdi Urgessa/OneDrive/Documents/Projects/SecureFileCrypt/src/decrypt.cpp",
+  "output": "src/CMakeFiles/SecureFileCrypt.dir/decrypt.cpp.obj"
+}
+]
